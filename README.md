@@ -9,7 +9,7 @@
 
 # Installation
 
-  Use this link https://github.com/Nisarg1302/fashion clone and install TicTacToe.
+  Use this link https://github.com/Nisarg1302/fashion clone and install fashion.
   
   
   
